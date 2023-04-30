@@ -70,3 +70,27 @@ comment: |-
 C2hPHMhoqZf3GwIr-6qoM0fhnSm4MwApzaMujQhqYaSkg8S7Hy8E5_ai-ZZc5qNXaS7pzOoSfK490QzkxXIeAQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2023-04-30T20:24:10.137689717+02:00
+from:
+  id-type: crev
+  id: N-O1ucoAOVBwDzxXMsoCf3DEbi7fATCQpFqxwLtluac
+  url: https://github.com/cehteh/crev-proofs.git
+package:
+  source: https://crates.io
+  name: sharded_mutex
+  version: 1.1.0
+  revision: a561c2e20225559f398c8abaad52f89ae5f29e6c
+  digest: M5mKn6ZtuF-Xh8xroZlFOCsuvnoUEt1F6dKFWGNrJEA
+review:
+  thoroughness: high
+  understanding: high
+  rating: positive
+comment: |-
+  I am the author of the crate
+----- SIGN CREV PROOF -----
+WnME_Jwpf1iebEqH--G2lQ7abf1cHdaXU7iIzWO2jpQsL8YlEFSjaLrATL2mzWlVjjrtLjmUilitP843beV9DA
+----- END CREV PROOF -----
+
