@@ -308,3 +308,27 @@ comment: |-
 vLe4arRwBakc1AQ9q0Gf8Mw1p72TNK68Vv87KOpEVgERNocye0B-45imyuUxnz4t-Y53epWmg0RgbZTVPLGhBw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2023-04-30T20:42:45.248852061+02:00
+from:
+  id-type: crev
+  id: N-O1ucoAOVBwDzxXMsoCf3DEbi7fATCQpFqxwLtluac
+  url: https://github.com/cehteh/crev-proofs.git
+package:
+  source: https://crates.io
+  name: assoc_threadlocal
+  version: 0.0.1
+  revision: a41a885c62f9c77d9563176531530bbd946f81ce
+  digest: EevxeophOD9EcUGbMO1gLiaraOPYd-0X-1YQagPZavM
+review:
+  thoroughness: high
+  understanding: high
+  rating: positive
+comment: |-
+  I am the author of this crate
+----- SIGN CREV PROOF -----
+2NkCPslya_4iYq3Vg4exFjpfGuLS-BM_Jn0E2JaNIOWYWb03G-OFSvCy0wx5P8pTKR3ZARYj4oHxo8zTJBDdAA
+----- END CREV PROOF -----
+
