@@ -22,3 +22,27 @@ comment: |-
 Olriwd03dqRWWFYM2Vul7T_2BVRdVgO2anSTSJHQH8RQGeZUh0TJQvUB43vnAkChW_RludZeHdbcTMFgCR6EDA
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2023-04-30T18:30:26.022942373+02:00
+from:
+  id-type: crev
+  id: N-O1ucoAOVBwDzxXMsoCf3DEbi7fATCQpFqxwLtluac
+  url: https://github.com/cehteh/crev-proofs.git
+package:
+  source: https://crates.io
+  name: constptr
+  version: 0.2.0
+  revision: f249caa9bf1fd1a2cf4b05f6e44e560dd3eb043a
+  digest: Rk_l1O5FUaEQiWOJt1Qee7zsvBqJaUCcBvwOXgiERWk
+review:
+  thoroughness: medium
+  understanding: medium
+  rating: positive
+comment: |-
+  I am the author of this crate.  
+----- SIGN CREV PROOF -----
+PVSC9zJo2xfQfN5L2gRIv95O1SzcOCvHYKM_KWf9Zi-x4Sjj6yiX37atR72CZmOvGv5j35UTwunoNhFWJiWyAw
+----- END CREV PROOF -----
+
