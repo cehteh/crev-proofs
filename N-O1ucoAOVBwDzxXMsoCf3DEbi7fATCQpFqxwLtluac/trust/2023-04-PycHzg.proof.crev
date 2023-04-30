@@ -14,3 +14,20 @@ trust: high
 ACKOe-L1g8TybcmOXeETwuYrVl0Uk1kKe3vQLIhfNFZCtnhLtHPmNif0jf8QK6Akg6LTdp-IZ5exc9fu0RDKDw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: 2023-04-30T18:20:52.619359721+02:00
+from:
+  id-type: crev
+  id: N-O1ucoAOVBwDzxXMsoCf3DEbi7fATCQpFqxwLtluac
+  url: https://github.com/cehteh/crev-proofs.git
+ids:
+- id-type: crev
+  id: N-O1ucoAOVBwDzxXMsoCf3DEbi7fATCQpFqxwLtluac
+  url: https://github.com/cehteh/crev-proofs.git
+trust: high
+----- SIGN CREV PROOF -----
+XFWPiP8VI1wjvvh1hJe37S-rBbdfKk1b_C24ctxLPxg4ugkTCTH0VDkpDa-u9RgQqfluvQqsuRNAG9hvMdhGBg
+----- END CREV PROOF -----
+
