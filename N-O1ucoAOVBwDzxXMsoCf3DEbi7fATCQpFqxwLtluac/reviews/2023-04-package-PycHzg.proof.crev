@@ -46,3 +46,27 @@ comment: |-
 PVSC9zJo2xfQfN5L2gRIv95O1SzcOCvHYKM_KWf9Zi-x4Sjj6yiX37atR72CZmOvGv5j35UTwunoNhFWJiWyAw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2023-04-30T18:36:34.369175278+02:00
+from:
+  id-type: crev
+  id: N-O1ucoAOVBwDzxXMsoCf3DEbi7fATCQpFqxwLtluac
+  url: https://github.com/cehteh/crev-proofs.git
+package:
+  source: https://crates.io
+  name: cowstr
+  version: 1.0.0-beta2
+  revision: 5a2c90fc7a3a48da8c7544b4e369107ca59905f1
+  digest: XfKAv7hpBlIQwfIamSjKNqlDukcQZL4bUgsD09V1Ypo
+review:
+  thoroughness: high
+  understanding: high
+  rating: positive
+comment: |-
+  I am the author of this crate  
+----- SIGN CREV PROOF -----
+C2hPHMhoqZf3GwIr-6qoM0fhnSm4MwApzaMujQhqYaSkg8S7Hy8E5_ai-ZZc5qNXaS7pzOoSfK490QzkxXIeAQ
+----- END CREV PROOF -----
+
