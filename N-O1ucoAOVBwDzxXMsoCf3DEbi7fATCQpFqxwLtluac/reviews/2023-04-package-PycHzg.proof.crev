@@ -284,3 +284,27 @@ comment: |-
 P15XjTc1tbxxFyDx5MQ7c1ehug4wLnoihmMGTDyc25SgX-eC0GmdBzLd7QEai5P8ljexp_iqffLoUcVC8fW-AA
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2023-04-30T20:40:27.567836146+02:00
+from:
+  id-type: crev
+  id: N-O1ucoAOVBwDzxXMsoCf3DEbi7fATCQpFqxwLtluac
+  url: https://github.com/cehteh/crev-proofs.git
+package:
+  source: https://crates.io
+  name: parking_method
+  version: 0.4.0
+  revision: 878d0dc17b661464de48638ab568c31c0062586d
+  digest: p818WoGW2gVgMxAHKCQ6jkb1BtUWZo0ZqFsWxVlaEg4
+review:
+  thoroughness: medium
+  understanding: medium
+  rating: positive
+comment: |-
+  I am the author of this crate  
+----- SIGN CREV PROOF -----
+vLe4arRwBakc1AQ9q0Gf8Mw1p72TNK68Vv87KOpEVgERNocye0B-45imyuUxnz4t-Y53epWmg0RgbZTVPLGhBw
+----- END CREV PROOF -----
+
