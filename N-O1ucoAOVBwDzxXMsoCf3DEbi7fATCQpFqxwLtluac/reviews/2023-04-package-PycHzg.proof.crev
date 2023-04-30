@@ -260,3 +260,27 @@ comment: |-
 vFZBkyygqfnru7vm7HqQNcM0KlGwYVDv3b3WhnEQQMeL1UmNHkZd3BtFrBFaQqd7mV7gwcxlfwIbxPwtBiGjAQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2023-04-30T20:37:44.791904259+02:00
+from:
+  id-type: crev
+  id: N-O1ucoAOVBwDzxXMsoCf3DEbi7fATCQpFqxwLtluac
+  url: https://github.com/cehteh/crev-proofs.git
+package:
+  source: https://crates.io
+  name: rcell
+  version: 2.0.0
+  revision: 9be08fec2963adc89d58ea0b81255b95eb061a20
+  digest: J9Dr9dh3v-_FQsL1NAhuffdc8Tq1ufX2D_iBX89XNwI
+review:
+  thoroughness: medium
+  understanding: medium
+  rating: positive
+comment: |-
+  I am the author of this crate  
+----- SIGN CREV PROOF -----
+P15XjTc1tbxxFyDx5MQ7c1ehug4wLnoihmMGTDyc25SgX-eC0GmdBzLd7QEai5P8ljexp_iqffLoUcVC8fW-AA
+----- END CREV PROOF -----
+
