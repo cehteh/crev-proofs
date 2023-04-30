@@ -166,3 +166,27 @@ comment: |-
 5upcWHKvAWSyN_uDzGPtOG5m4WdafU3dzRaAkwI7vF7lBvsFC4xZ6ONknPBYeqC_0HvDEEpWa02RaAllMhOaCw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2023-04-30T20:30:22.724163531+02:00
+from:
+  id-type: crev
+  id: N-O1ucoAOVBwDzxXMsoCf3DEbi7fATCQpFqxwLtluac
+  url: https://github.com/cehteh/crev-proofs.git
+package:
+  source: https://crates.io
+  name: bintest
+  version: 1.0.3
+  revision: 3a2dfbccfdd6dca8629f07e628aaa3fc5856770a
+  digest: 9zajgwkT9Lv2peY1xiHETSzA4x-8pWa-NHBsw35MgJ8
+review:
+  thoroughness: medium
+  understanding: medium
+  rating: positive
+comment: |-
+  I am the author of the crate
+----- SIGN CREV PROOF -----
+jLyfFMufKhJNHD2qELBAPRAy9TbcEhk37mKEYjgIbRkLAq17-9pO7omHkmlkm9SegiIeA-ay9FvY4ETnROOdDw
+----- END CREV PROOF -----
+
