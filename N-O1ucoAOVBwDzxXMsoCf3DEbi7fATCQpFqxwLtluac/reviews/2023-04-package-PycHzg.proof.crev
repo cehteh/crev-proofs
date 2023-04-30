@@ -237,3 +237,26 @@ comment: |-
 12LJ-6_MSWYLvi-RDISKDdiLNxgD8_kYav44X6xGYNyUwpjAA27bHlz8Qhe1lF9SveMoaZgGoosvLjhF-1d9Bg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2023-04-30T20:36:35.382464652+02:00
+from:
+  id-type: crev
+  id: N-O1ucoAOVBwDzxXMsoCf3DEbi7fATCQpFqxwLtluac
+  url: https://github.com/cehteh/crev-proofs.git
+package:
+  source: https://crates.io
+  name: openat_ct
+  version: 0.2.0-pre9
+  digest: PEN8ug8POUGuEnv0pMfJGgW7ETgCNs9EeU-iv-Lu-9o
+review:
+  thoroughness: medium
+  understanding: high
+  rating: positive
+comment: |-
+  This is my fork of this crate
+----- SIGN CREV PROOF -----
+vFZBkyygqfnru7vm7HqQNcM0KlGwYVDv3b3WhnEQQMeL1UmNHkZd3BtFrBFaQqd7mV7gwcxlfwIbxPwtBiGjAQ
+----- END CREV PROOF -----
+
