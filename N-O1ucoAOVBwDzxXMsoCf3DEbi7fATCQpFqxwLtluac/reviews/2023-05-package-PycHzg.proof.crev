@@ -20,3 +20,28 @@ review:
 2AORr4oMFJVk2ki0SPeOKCfYjQTbBK-YIbVMTsi_V6wYvIvEPRlQ2UIiRVGO1eyoEff704DCpIMjRVs-8WrbCw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2023-05-01T17:23:48.180289085+02:00
+from:
+  id-type: crev
+  id: N-O1ucoAOVBwDzxXMsoCf3DEbi7fATCQpFqxwLtluac
+  url: https://github.com/cehteh/crev-proofs.git
+package:
+  source: https://crates.io
+  name: maybe_atomic_refcell
+  version: 0.3.1
+  revision: 9635857896e4deee6ad782fd5e71dc54c184b5d3
+  digest: PXHCol8mJgqX69xgxDduYFL0-KVVWRe9JGes5q-O0RA
+review:
+  thoroughness: medium
+  understanding: high
+  rating: positive
+comment: |-
+  Wrong use of this crate can easily lead to unsound code.
+  This is not this crates fault though.
+----- SIGN CREV PROOF -----
+39RWPa7GatbwIkDkiSnlN6XN6mSIDTTNSudQBqy-11ttJaJkK2DzdXqK1KFDvU3qtTkKb2n5gKfHRmyoZXXODA
+----- END CREV PROOF -----
+
