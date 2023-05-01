@@ -1,0 +1,22 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2023-05-01T17:17:44.290242718+02:00
+from:
+  id-type: crev
+  id: N-O1ucoAOVBwDzxXMsoCf3DEbi7fATCQpFqxwLtluac
+  url: https://github.com/cehteh/crev-proofs.git
+package:
+  source: https://crates.io
+  name: atomic_refcell
+  version: 0.1.10
+  revision: d999f8e10db3a5aaac5b8abdd392ebfc1179e7fb
+  digest: yUFZQE79fcyOE-dAmnYkomfbJk-X0pdT65q2P_Q4ROI
+review:
+  thoroughness: medium
+  understanding: medium
+  rating: positive
+----- SIGN CREV PROOF -----
+2AORr4oMFJVk2ki0SPeOKCfYjQTbBK-YIbVMTsi_V6wYvIvEPRlQ2UIiRVGO1eyoEff704DCpIMjRVs-8WrbCw
+----- END CREV PROOF -----
+
