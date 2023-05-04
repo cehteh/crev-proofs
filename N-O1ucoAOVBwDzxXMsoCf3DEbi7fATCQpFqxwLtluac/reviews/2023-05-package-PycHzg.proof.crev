@@ -45,3 +45,36 @@ comment: |-
 39RWPa7GatbwIkDkiSnlN6XN6mSIDTTNSudQBqy-11ttJaJkK2DzdXqK1KFDvU3qtTkKb2n5gKfHRmyoZXXODA
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2023-05-04T04:11:31.921114580+02:00
+from:
+  id-type: crev
+  id: N-O1ucoAOVBwDzxXMsoCf3DEbi7fATCQpFqxwLtluac
+  url: https://github.com/cehteh/crev-proofs.git
+package:
+  source: https://crates.io
+  name: conf_test
+  version: 0.5.0
+  revision: a966693459a117c2ba36f410f384e4137ed12066
+  digest: EFGHWYwIEy4aV5Q0yw1cJR0oAmGnGomN-l3dzIwtqDI
+review:
+  thoroughness: medium
+  understanding: medium
+  rating: positive
+comment: |-
+  I am the author of the crate.
+  conf_test does some ugly things to work around current implementation/understanding/cargo
+  deficiencies. These things are known, nevertheless it is made to my best knowlege and shouldn't
+  cause any harm or introduce security problems (beyond running a build.rs and the config snippets)
+  
+  * It builds once only for gathering all libs the configuration snippets have to be linked with
+   * This build creates a Cargo.lock outside of $OUT_DIR which becomes later deleted when it was
+     created on conf_tests behalf
+  * Snippets in conf_tests/*.rs are actually executed. These should be reviewed as well.
+  * Special case when running on 'docs.rs', disabling conf_tests.
+----- SIGN CREV PROOF -----
+7nDOM3S9kATQ7OVj8pVa5grzAl8u1znGuJM__DYE3u37KljkUKyxEBY_Zz9bz1dwWx3lqz57U55VCSNQapSlCg
+----- END CREV PROOF -----
+
