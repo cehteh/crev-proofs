@@ -1,0 +1,24 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2024-04-25T18:25:41.451327415+02:00
+from:
+  id-type: crev
+  id: N-O1ucoAOVBwDzxXMsoCf3DEbi7fATCQpFqxwLtluac
+  url: https://github.com/cehteh/crev-proofs.git
+package:
+  source: https://crates.io
+  name: univec
+  version: 1.0.0
+  revision: 7f5f410d171e0e13695a5c0c0a348bca4ed4c8a7
+  digest: veCfrmqBcMcSlQbo1q5Nn6_LJajdrYfJ0eZKT7QvECs
+review:
+  thoroughness: high
+  understanding: high
+  rating: positive
+comment: |-
+  I am the original author of this crate
+----- SIGN CREV PROOF -----
+9bN4bzrJ2PHc8lm0hYTRMUU7K-0Tp-Ytapisjsest2umz8o2ckyWu44yhdDPkATpxhtrfOc7a7HBkC61V5ywCA
+----- END CREV PROOF -----
+
