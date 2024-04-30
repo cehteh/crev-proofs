@@ -22,3 +22,28 @@ comment: |-
 9bN4bzrJ2PHc8lm0hYTRMUU7K-0Tp-Ytapisjsest2umz8o2ckyWu44yhdDPkATpxhtrfOc7a7HBkC61V5ywCA
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2024-04-30T20:27:00.802812280+02:00
+from:
+  id-type: crev
+  id: N-O1ucoAOVBwDzxXMsoCf3DEbi7fATCQpFqxwLtluac
+  url: https://github.com/cehteh/crev-proofs.git
+package:
+  source: https://crates.io
+  name: into_index
+  version: 0.1.0
+  revision: 54038af660aabc95815fc181c315a69332ef4919
+  digest: BlKmC_Dz_wBRYu3QxdRDXgwMCbpTcYrzewhxpmeYZwc
+review:
+  thoroughness: high
+  understanding: high
+  rating: strong
+comment: |-
+  I am the original author of this crate. The codebase is extremely small and trivial. I don't
+  expect any issues.
+----- SIGN CREV PROOF -----
+JOH8cLPxPCR-fNrMOdFX1PPqm3H6X7Bc4xtuMnxfrC6jXRtDTNn6XqNzkN0Ggyqmti7Ts5uExlu9wLmivQI6Aw
+----- END CREV PROOF -----
+
