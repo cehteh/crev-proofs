@@ -1,0 +1,24 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2024-12-12T06:25:52.803285517+01:00
+from:
+  id-type: crev
+  id: N-O1ucoAOVBwDzxXMsoCf3DEbi7fATCQpFqxwLtluac
+  url: https://github.com/cehteh/crev-proofs.git
+package:
+  source: https://crates.io
+  name: shadow_counted
+  version: 0.3.1
+  revision: 5563a01139541765874419d463cb57a8605ebc51
+  digest: ryCU1pYOOqAIrkXuuvlk8oJspT9DwZitprLR5zI3sms
+review:
+  thoroughness: medium
+  understanding: high
+  rating: positive
+comment: |-
+  I am the original author of this crate.
+----- SIGN CREV PROOF -----
+7u9Dc643dbsLZ2DP9Y39s3CpC24icBH6BdGgPo04SGuEYuE3yF3fSteGNNLosbvthiR7LAqAS31RE0PM9XrUBw
+----- END CREV PROOF -----
+
