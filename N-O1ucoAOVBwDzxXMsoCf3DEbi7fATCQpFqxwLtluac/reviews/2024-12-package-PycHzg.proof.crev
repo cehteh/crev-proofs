@@ -22,3 +22,27 @@ comment: |-
 7u9Dc643dbsLZ2DP9Y39s3CpC24icBH6BdGgPo04SGuEYuE3yF3fSteGNNLosbvthiR7LAqAS31RE0PM9XrUBw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2024-12-12T06:31:58.102058816+01:00
+from:
+  id-type: crev
+  id: N-O1ucoAOVBwDzxXMsoCf3DEbi7fATCQpFqxwLtluac
+  url: https://github.com/cehteh/crev-proofs.git
+package:
+  source: https://crates.io
+  name: unsynn
+  version: 0.0.22
+  revision: 05a289fdf2b7b033d976b72f1e2719caa95e9b5d
+  digest: 1nVc9y9qJmxlZrWiHgD9lhj4wUb8lTSre1Y8TOkQhhc
+review:
+  thoroughness: medium
+  understanding: high
+  rating: positive
+comment: |-
+  I am the original Author of this crate
+----- SIGN CREV PROOF -----
+X51tI7fhDS0wqOdFo1GI-z_f6j2prB5j_GnbjQ42-3f7tYYgvov0HPdV6GYk6GHFNLeIrzCex_MNNaSxEAvSCw
+----- END CREV PROOF -----
+
